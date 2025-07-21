@@ -1,4 +1,4 @@
-# Iakovos Chondropoulos ☦
+# Iakovos Chondropoulos 
 Thank you for visiting my GitHub, I am an IT Professional with almost 10 years of experience currently focusing on IAM & Cloud Sec.
 
 I specialize in:
