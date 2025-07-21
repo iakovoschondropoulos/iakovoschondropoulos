@@ -3,9 +3,9 @@ Thank you for visiting my GitHub, I am an IT Professional with almost 10 years o
 
 I specialize in:
 
-   - 🛡️ Zero Trust | Information Barriers
+   - 🛡️ Zero Trust & Least Privilege
    - 🔐 SSO Integration (Kerberos, OAuth, OIDC, SAML)
-   - ☁️ Microsoft Entra ID | Azure AD Governance | Hybrid Infra
-   - ⚙️ PowerShell | Graph API Automation
+   - ☁️ Microsoft Entra ID & Azure AD Governance
+   - ⚙️ PowerShell & Graph API Automation
    - ✅ AD Sync | Just-in-Time Access | Hybrid Identity
    - 📋 Collaboration | Documentation | Presentation
